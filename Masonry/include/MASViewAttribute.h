@@ -1,1 +1,1 @@
-/Users/sainttail/Desktop/eko-project/Masonry/Masonry/MASViewAttribute.h
+../MASViewAttribute.h
